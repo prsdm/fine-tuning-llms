@@ -7,7 +7,7 @@
  
 
 <h2>📝Notebooks</h2>
-<p>The table lists various models and their corresponding links, allowing easy access and understanding of step-by-step model fine-tuning. </p>
+<p>Check out latest fine-tune models </p>
 
 
   | Fine-tune Models                      | Dataset | Notebooks | 
