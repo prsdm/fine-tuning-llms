@@ -5,7 +5,7 @@
 
  ![llm tree-min](https://github.com/prasadmahamulkar/Large-Language-Models-llm-/assets/93597510/9da2115a-3eed-4f5f-ac72-125800a0eb6e)
  
-https://colab.research.google.com/drive/1zki5smRQDDIYGZ9LuTzVLV_qcq4dH8Aj
+
 <h2>📝Notebooks</h2>
 <p>The table lists various models and their corresponding links, allowing easy access and understanding of step-by-step model fine-tuning. </p>
 
