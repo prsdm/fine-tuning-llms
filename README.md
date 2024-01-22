@@ -2,16 +2,16 @@
 <p align="center">
   🤗<a href="https://www.google.com">Hugging Face</a> • 💻<a href="https://www.google.com">Blogs</a>
 </p>
- 
+
  ![llm tree-min](https://github.com/prasadmahamulkar/Large-Language-Models-llm-/assets/93597510/9da2115a-3eed-4f5f-ac72-125800a0eb6e)
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xx5pu64j_uuLbnE3C0imgUc_zWkfXfSZ?usp=sharing)
+ 
 
 <h2>📝Notebooks</h2>
+<p>The table lists various models and their corresponding links, allowing easy access and understanding of step-by-step model fine-tuning. </p>
 
-  | Model                      | Description | Notebooks | 
+
+  | Fine-tune Models                      | Dataset | Notebooks | 
 |----------------------------|-----------------------------------------------|-----------------------|
-| KNN                        |                                               | 0.753                 |       
-| Random Forest Classifier   |                                               | 0.807                |
+| Phi -2 - [link](https://huggingface.co/prsdm/phi-2-medquad)                      | [Dataset](https://huggingface.co/datasets/prsdm/MedQuad-phi2-1k)                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1Xx5pu64j_uuLbnE3C0imgUc_zWkfXfSZ?usp=sharing](https://colab.research.google.com/github/prasadmahamulkar/Large-Language-Models-llm-/blob/main/Fine_tune_Phi_2_on_Google_Colab_.ipynb))               |       
+| Llama-2 7b   |                       W.I.P                        | W.I.P               |
 | Logistic Regression        |                                               | 0.621                | 
