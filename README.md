@@ -12,6 +12,6 @@
 
   | Fine-tune Models                      | Dataset | Notebooks | 
 |----------------------------|-----------------------------------------------|-----------------------|
-| Phi -2 - [link](https://huggingface.co/prsdm/phi-2-medquad)                      | [Dataset](https://huggingface.co/datasets/prsdm/MedQuad-phi2-1k)                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1Xx5pu64j_uuLbnE3C0imgUc_zWkfXfSZ?usp=sharing])               |       
+| Phi -2 - [link](https://huggingface.co/prsdm/phi-2-medquad)                      | [Dataset](https://huggingface.co/datasets/prsdm/MedQuad-phi2-1k)                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xx5pu64j_uuLbnE3C0imgUc_zWkfXfSZ?usp=sharing)               |       
 | Llama-2 7b   |                       W.I.P                        | W.I.P               |
 | Logistic Regression        |                                               | 0.621                | 
