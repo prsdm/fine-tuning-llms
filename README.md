@@ -8,7 +8,8 @@
  
 
 <h2>Fine-tune Projects 📝</h2>
-<p> Fine-tuning or instruction tuning is the process where the pre-trained model is further trained on the smaller dataset to adapt its knowledge for a specific task or domain. This process tweaks the model’s parameters to perform specific tasks.</p>
+<a href="https://medium.com/@prasadmahamulkar">Article</a>
+<p> Fine-tuning or instruction tuning is the process where the pre-trained model is further trained on the smaller dataset to adapt its knowledge for a specific task or domain. This process tweaks the model’s parameters to perform 
 
 
   | LLMs                      |Description| Dataset | Notebooks | 
