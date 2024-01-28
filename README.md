@@ -1,6 +1,6 @@
 <h1 align="center"> Large Language Models Notebooks</h1>
 <p align="center">
-  🤗<a href="https://www.google.com">Hugging Face</a> • 💻<a href="https://www.google.com">Blogs</a>
+  🤗<a href="https://huggingface.co/prsdm">Hugging Face</a> • 💻<a href="https://medium.com/@prasadmahamulkar">Blogs</a>
 </p>
 
  ![llm tree-min](https://github.com/prasadmahamulkar/Large-Language-Models-llm-/assets/93597510/9da2115a-3eed-4f5f-ac72-125800a0eb6e)
