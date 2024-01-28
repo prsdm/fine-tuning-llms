@@ -19,6 +19,6 @@
 <p> Retrieval-augmented generation (RAG) aims to improve prediction quality by using an external datastore at inference time to build a richer prompt that includes some combination of context, history, and recent/relevant knowledge. </p>
 
 
-  | LLMs                      |Description| Dataset | Notebooks | 
-|----------------------------|------------------------|-----------------------|-----------------------|
-|  [Phi-2](https://huggingface.co/prsdm/phi-2-medquad)  |                    | [Dataset](https://huggingface.co/datasets/prsdm/MedQuad-phi2-1k)                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zki5smRQDDIYGZ9LuTzVLV_qcq4dH8Aj)               |    
+  | LLMs                      |Description| Dataset | Notebooks | Demo |
+|----------------------------|------------------------|-----------------------|-----------------------|-----------|
+|  llama-2   |       Developed a machine learning expert chatbot (using Q&A dataset) that exclusively answers questions related to machine learning only.       | [addlink](https://huggingface.co/datasets/prsdm/MedQuad-phi2-1k)                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prasadmahamulkar/Large-Language-Models/blob/main/RAG_llama_2_model.ipynb)           |   W.I.P |
