@@ -1,6 +1,6 @@
 <h1 align="center"> Large Language Models Notebooks</h1>
 <p align="center">
-  🤗<a href="https://huggingface.co/prsdm">Hugging Face</a> • 💻<a href="https://medium.com/@prasadmahamulkar">Blogs</a>
+  🤗<a href="https://huggingface.co/prsdm">Hugging Face</a> • 💻<a href="https://medium.com/@prasadmahamulkar">Articles</a>
 </p>
 <p align="center"> This repository contains all the large language models that I have worked on </p>
 
@@ -8,7 +8,7 @@
  
 
 <h2>Fine-tune Projects 📝</h2>
-<a href="https://medium.com/@prasadmahamulkar">Article</a>
+<a href="https://medium.com/@prasadmahamulkar/fine-tuning-phi-2-a-step-by-step-guide-e672e7f1d009">Article</a>
 <p> Fine-tuning or instruction tuning is the process where the pre-trained model is further trained on the smaller dataset to adapt its knowledge for a specific task or domain. This process tweaks the model’s parameters to perform 
 
 
