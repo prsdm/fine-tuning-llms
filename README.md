@@ -2,6 +2,7 @@
 <p align="center">
   🤗<a href="https://huggingface.co/prsdm">Hugging Face</a> • 💻<a href="https://medium.com/@prasadmahamulkar">Blogs</a>
 </p>
+<p align="center"> This repository contains all the large language models that I have worked on </p>
 
  ![llm tree-min](https://github.com/prasadmahamulkar/Large-Language-Models-llm-/assets/93597510/9da2115a-3eed-4f5f-ac72-125800a0eb6e)
  
