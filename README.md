@@ -1,9 +1,21 @@
 Updated on 14th August 2024
 # Large Language Models Notebooks
 <p>
- <a href="https://medium.com/@prasadmahamulkar">Article</a> • Models & Datasets on: 🤗<a href="https://huggingface.co/prsdm">Hugging Face</a>
+📝<a href="https://medium.com/@prasadmahamulkar">Article</a> • Models & Datasets on: 🤗<a href="https://huggingface.co/prsdm">Hugging Face</a>
 </p>
-<p align="centre"> This repository contains all the large language models that I have worked on </p>
+
+This repository provides a collection of Jupyter notebooks that demonstrate how to fine-tune large language models with less minimal cost. 
+
+fine-tuning or instruction tuning is the process where the pre-trained model is further trained on the smaller dataset to adapt its knowledge for a specific task or domain. This process tweaks the model’s parameters to perform specific tasks. In fine-tuning, there are two methods:
+
+#### Supervised fine tuning (SFT):
+In SFT, the model is trained on a labeled dataset. The labeled dataset typically contains examples of instruction (input) and response (output) pairs relevant to the task. In this process, the model learns how to respond to specific instructions.
+
+#### Reinforcement Learning from Human Feedback (RLHF): 
+In RLHF, the model interacts with users, generates responses, and receives feedback in the form of reinforcement signals. Basically, the model learns and improves its performance based on the feedback it receives.
+
+
+![diagram](https://github.com/user-attachments/assets/b84531b3-9935-4e2f-bd05-e0f88f95edb6)
 
  ![llm tree-min](https://github.com/prasadmahamulkar/Large-Language-Models-llm-/assets/93597510/9da2115a-3eed-4f5f-ac72-125800a0eb6e)
  
