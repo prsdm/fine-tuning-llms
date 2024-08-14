@@ -1,5 +1,5 @@
 Updated on 14th August 2024
-# Fine Tune Large Language Models
+# Fine-tune Large Language Models
 <p>
 📝<a href="https://medium.com/@prasadmahamulkar/fine-tuning-phi-2-a-step-by-step-guide-e672e7f1d009">Article</a> • Models & Datasets on: 🤗<a href="https://huggingface.co/prsdm">Hugging Face</a>
 </p>
