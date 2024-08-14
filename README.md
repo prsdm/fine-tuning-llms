@@ -14,7 +14,7 @@ In SFT, the model is trained on a labeled dataset. The labeled dataset typically
 ### Reinforcement Learning from Human Feedback (RLHF): 
 In RLHF, the model interacts with users, generates responses, and receives feedback in the form of reinforcement signals. Basically, the model learns and improves its performance based on the feedback it receives.
 
-### Detailed explanation of each notebook:
+### Details of each notebook:
 
 | LLMs                      | Description | Dataset | Notebooks | Tuned Model |
 |---------------------------|-------------|---------|-----------|-------------|
