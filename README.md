@@ -8,13 +8,13 @@ This repository provides a collection of Jupyter notebooks that demonstrate how 
 
 fine-tuning or instruction tuning is the process where the pre-trained model is further trained on the smaller dataset to adapt its knowledge for a specific task or domain. This process tweaks the model’s parameters to perform specific tasks. In fine-tuning, there are two methods:
 
-#### Supervised fine tuning (SFT):
+### Supervised fine tuning (SFT):
 In SFT, the model is trained on a labeled dataset. The labeled dataset typically contains examples of instruction (input) and response (output) pairs relevant to the task. In this process, the model learns how to respond to specific instructions.
 
-#### Reinforcement Learning from Human Feedback (RLHF): 
+### Reinforcement Learning from Human Feedback (RLHF): 
 In RLHF, the model interacts with users, generates responses, and receives feedback in the form of reinforcement signals. Basically, the model learns and improves its performance based on the feedback it receives.
 
-
+### diagram:
 ![diagram](https://github.com/user-attachments/assets/b84531b3-9935-4e2f-bd05-e0f88f95edb6)
 
  ![llm tree-min](https://github.com/prasadmahamulkar/Large-Language-Models-llm-/assets/93597510/9da2115a-3eed-4f5f-ac72-125800a0eb6e)
