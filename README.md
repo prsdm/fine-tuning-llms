@@ -4,7 +4,7 @@ Updated on 14th August 2024
 📝<a href="https://medium.com/@prasadmahamulkar/fine-tuning-phi-2-a-step-by-step-guide-e672e7f1d009">Article</a> • Models & Datasets on: 🤗<a href="https://huggingface.co/prsdm">Hugging Face</a>
 </p>
 
-This repository provides a collection of Jupyter notebooks that demonstrate how to fine-tune large language models with less minimal cost. 
+This repository provides a collection of Jupyter notebooks that demonstrate how to fine-tune large language models using various tools and techniques. 
 
 fine-tuning or instruction tuning is the process where the pre-trained model is further trained on the smaller dataset to adapt its knowledge for a specific task or domain. This process tweaks the model’s parameters to perform specific tasks. In fine-tuning, there are two methods:
 
